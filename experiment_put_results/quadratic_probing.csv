@@ -1,0 +1,11 @@
+cant_experimentos;dataset;estructura_de_datos;cantidad_consultas;tiempo_ejecucion_promedio;tamaño_estructura_de_dato;desviacion_estandar
+20;user_id;quadratic_probing;1000;196162 ns;143896
+20;user_id;quadratic_probing;5000;1073922 ns;719896
+20;user_id;quadratic_probing;10000;2194663 ns;1439320
+20;user_id;quadratic_probing;15000;3635141 ns;2098120
+20;user_id;quadratic_probing;20000;5230912 ns;2740792;657287
+20;user_name;quadratic_probing;1000;219262 ns;143896
+20;user_name;quadratic_probing;5000;1154396 ns;719896
+20;user_name;quadratic_probing;10000;2446988 ns;1439320
+20;user_name;quadratic_probing;15000;3903537 ns;2098120
+20;user_name;quadratic_probing;20000;5454137 ns;2740792;1.21545e+06

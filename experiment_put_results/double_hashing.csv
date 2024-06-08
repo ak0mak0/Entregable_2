@@ -1,0 +1,11 @@
+cant_experimentos;dataset;estructura_de_datos;cantidad_consultas;tiempo_ejecucion_promedio;tamaño_estructura_de_dato;desviacion_estandar
+20;user_id;double_hashing;1000;406301 ns;143896
+20;user_id;double_hashing;5000;1962718 ns;719896
+20;user_id;double_hashing;10000;3715108 ns;1439320
+20;user_id;double_hashing;15000;6160904 ns;2098120
+20;user_id;double_hashing;20000;8968593 ns;2740792;1.45098e+06
+20;user_name;double_hashing;1000;245912 ns;143896
+20;user_name;double_hashing;5000;1146134 ns;719896
+20;user_name;double_hashing;10000;2435810 ns;1439320
+20;user_name;double_hashing;15000;3886532 ns;2098120
+20;user_name;double_hashing;20000;5436053 ns;2740792;580931

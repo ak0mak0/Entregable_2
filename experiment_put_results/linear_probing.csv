@@ -1,0 +1,11 @@
+cant_experimentos;dataset;estructura_de_datos;cantidad_consultas;tiempo_ejecucion_promedio;tamaño_estructura_de_dato;desviacion_estandar
+20;user_id;linear_probing;1000;188731 ns;143896
+20;user_id;linear_probing;5000;1027258 ns;719896
+20;user_id;linear_probing;10000;2206822 ns;1439320
+20;user_id;linear_probing;15000;3611170 ns;2098120
+20;user_id;linear_probing;20000;5254068 ns;2740792;511564
+20;user_name;linear_probing;1000;223130 ns;143896
+20;user_name;linear_probing;5000;1080932 ns;719896
+20;user_name;linear_probing;10000;2286655 ns;1439320
+20;user_name;linear_probing;15000;3684877 ns;2098120
+20;user_name;linear_probing;20000;5104968 ns;2740792;589718
